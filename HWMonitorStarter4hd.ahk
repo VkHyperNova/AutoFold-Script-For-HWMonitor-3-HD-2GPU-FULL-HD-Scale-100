@@ -86,7 +86,7 @@ Mbutton::
   Click, 69 170
   sleep, 1
 
-  ; MB
+  ; MB close
   Click, 46 125
   sleep, 1
   
