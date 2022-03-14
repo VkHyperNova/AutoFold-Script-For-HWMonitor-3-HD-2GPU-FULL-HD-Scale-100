@@ -2,6 +2,8 @@
 
 This script folds all unnecessary items by clicking on the middle mouse button.
 
+This is for FULL HD display and for scale 100%
+
 How to use!
 
 1. First download and install latest HWMonitor in default location (C:\Program Files\CPUID\HWMonitor\HWMonitor.exe)
