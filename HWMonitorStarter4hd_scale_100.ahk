@@ -15,82 +15,82 @@ Run C:\Program Files\CPUID\HWMonitor\HWMonitor.exe
 Mbutton::
 {
   ; hdd1
-  Click, 45 261
+  Click, 37 370
   sleep, 1
 
   ;hdd2
-  Click, 47 284
+  Click, 36 387
   sleep, 1
 
   ;hdd3
-  Click, 45 305
+  Click, 36 407
   sleep, 1
 
-  ;hdd4
-  Click, 46 328
+  ;hdd4 
+  Click, 35 425
   sleep, 1
 
   ;GPU voltages
-  Click, 70 374
+  Click, 55 460
   sleep, 1
 
   ; GPU Fans
-  Click, 70 463
+  Click, 55 531
   sleep, 1
 
   ; GPU Fans PWM
-  Click, 70 485
+  Click, 56 550
   sleep, 1
 
   ; GPU Powers
-  Click, 71 530
+  Click, 55 569
   sleep, 1
 
   ; GPU Clocks
-  Click, 71 576
+  Click, 54 587
   sleep, 1
 
   ; GPU Utilization
-  Click, 70 665
+  Click, 55 603
   sleep, 1
 
   ; GPU Performance
-  Click, 69 800
+  Click, 55 640
   sleep, 1
 
   ; CPU Clocks
-  Click, 70 509
+  Click, 55 405
   sleep, 1
 
   ; CPU Utilization
-  Click, 70 372
+  Click, 55 298
   sleep, 1
 
   ; CPU Powers
-  Click, 69 463
+  Click, 55 353
   sleep, 1
 
   ; CPU Voltages
-  Click, 70 214
+  Click, 55 173
   sleep, 1
 
   ; MP Utilization
-  Click, 69 329
+  Click, 55 263
   sleep, 1
 
   ; MB Fans
-  Click, 69 281
+  Click, 55 227
   sleep, 1
 
   ; MB Temps
-  Click, 69 170
+  Click, 55 135
   sleep, 1
 
   ; MB close
-  Click, 46 125
+  Click, 36 100
   sleep, 1
   
 
-  ExitApp
+ 
 }
 
