@@ -90,7 +90,7 @@ Mbutton::
   Click, 36 100
   sleep, 1
   
-
+ExitApp
  
 }
 
